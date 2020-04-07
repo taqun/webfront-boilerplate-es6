@@ -1,0 +1,8 @@
+{
+  "name": "webfront-boilerplate-es",
+  "version": "1.0.0",
+  "description": "web front boilerplate",
+  "main": "index.js",
+  "author": "taqun <694558+taqun@users.noreply.github.com>",
+  "license": "MIT"
+}
