@@ -1,0 +1,7 @@
+@import "ress";
+@import "styles/variables/colors";
+
+* {
+  color: $text-color;
+  font-size: 16px;
+}
